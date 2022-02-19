@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace CartasianGreet;
+namespace CartasianLength;
 
 class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to LineComparison ComputationProgram on");
+        CartasianLength.CarLen();
     }
 }
-    
