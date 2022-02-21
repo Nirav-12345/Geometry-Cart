@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace CartasianLength;
+namespace LineComGretLes;
+
 
 class Program
+
 {
+
     public static void Main(string[] args)
     {
-
-
-        CartasianLength.CarLen();
-
+        LiGrLe.LineLessGretUC_3();
     }
 }
